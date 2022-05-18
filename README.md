@@ -3,7 +3,7 @@
 ### Documentation
 
 1. Чтобы скачать с гитхаба проект запускаем команду: `git clone https://github.com/abylay-dev/E-School-Abylay.git`.
-2. Вам нужно запустить сервер с помощью приложении, как `XAMPP`, войти в <i>phpMyAdmin</i> затем создать БД под названием `eschool_abylay`. Затем проверьте <i>application.properties</i>, посмотрите правильность портов и названии БД. К примеру там стоит `jdbc:mysql://localhost:3306/eschool_abylay?useUnicode=true&serverTimezone=UTC`.
+2. Вам нужно запустить сервер с помощью приложения, как `XAMPP`, войти в <i>phpMyAdmin</i> затем создать БД под названием `eschool_abylay`. Затем проверьте <i>application.properties</i>, посмотрите правильность портов и названии БД. К примеру там стоит `jdbc:mysql://localhost:3306/eschool_abylay?useUnicode=true&serverTimezone=UTC`.
 3. Запустите программу и ожидайте пока сервер запустится.
 4. После того как программа запустилась, откройте любой браузер, и напишите URL: `localhost:8086`.
 5. 
